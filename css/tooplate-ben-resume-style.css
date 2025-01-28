@@ -320,11 +320,6 @@ https://www.tooplate.com/view/2120-ben-resume
     padding: 0.5rem 2rem 1rem 2rem;
   }
 
-  .email-link:hover {
-    background: var(--dark-color);
-    color: var(--white-color);
-  }
-
 
   /*---------------------------------------
      ABOUT                
